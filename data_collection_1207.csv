@@ -1,0 +1,51 @@
+project_name,stars_count,Language,Domain,commits_count_total,commits_count_max,commits_count_avg,contributors_count_max,minor_count_max,contributors_count_avg,minor_count_avg,created year
+GitHub - maxi-booking/d8base-frontend: The PWA and mobile applications for the d8base project,6,TypeScript,ios,2030,824,7,5,5,1,0,2019
+GitHub - KeyboardKit/KeyboardKit: KeyboardKit is a Swift library that helps you create custom keyboard extensions for iOS and ipadOS.,627,Swift,ios,1550,548,7,3,3,1,0,2016
+GitHub - GetStream/stream-chat-swiftui: Official SwiftUI SDK for Stream Chat.,6,Swift,ios,96,35,1,1,1,1,0,2021
+GitHub - box/mojito: An automation platform that enables continuous localization.,301,Java,ios,1026,157,2,6,10,1,0,2016
+GitHub - Azure/azure-sdk-for-ios: iOS client SDKs for Microsoft Azure,112,Swift,ios,838,258,6,6,7,1,0,2018
+GitHub - KOKENY97/Cahue-BlastOff: Repositório para subir exemplos e exercícios.,0,Swift,ios,81,35,2,1,0,1,0,2021
+GitHub - microsoft/AdaptiveCards: A new way for developers to exchange card content in a common and consistent way.,1100,C++,ios,3350,5681,4,7,29,1,0,2016
+GitHub - globules-io/OGX.JS: OGX.JS Javascript Framework for Mobile & Desktop (Webview) & Progressive Web Applications,9,JavaScript,ios,1748,357,12,2,1,1,0,2016
+"GitHub - UNIDY2002/THUInfo: An APP aimed at integrating various sources of campus information, developed with React Native ⚛️",57,TypeScript,ios,1348,771,8,3,2,1,0,2020
+"GitHub - getsentry/sentry-cocoa: The official Sentry SDK for iOS, tvOS, macOS, watchOS.",458,Objective-C,ios,1920,598,6,6,18,1,0,2016
+"GitHub - Oztechan/CCC: Currency Converter Calculator for Android, iOS and Backend with power of Kotlin Multiplatform",146,Kotlin,ios,2010,564,12,2,1,1,0,2017
+"GitHub - AnaBerigo/Cooking_Home-App-Recipes: Aplicativo desenvolvido em React Native, com intuito de mostrar receitas e filtrar ingredientes. Utilizando a ferramenta Expo.",0,JavaScript,ios,10,4,1,2,0,1,0,2021
+GitHub - SAP-samples/cloud-sdk-ios-specs: Dependency Manager specs repository for SAP BTP SDK for iOS.,10,Ruby,ios,225,37,2,3,3,1,0,2019
+GitHub - xsscx/srd: Welcome to Hoyt's SRD Repo for the Apple Security Research Device. Contribute Code or Open Issues. Follow @srdcohort on Twitter,18,Assembly,ios,992,149,2,1,0,1,0,2021
+GitHub - airbnb/swift: Airbnb's Swift Style Guide.,1400,Markdown,ios,480,286,31,5,26,2,4,2016
+GitHub - awslabs/aws-mobile-appsync-sdk-ios: iOS SDK for AWS AppSync.,245,Swift,ios,429,168,4,6,14,1,0,2017
+GitHub - madalin-dogaru/balaurul: Offensive tooling....TBR,0,N/A,ios,12,9,4,1,0,1,0,2021
+GitHub - BrainiumLLC/cargo-mobile: Rust on mobile made easy!,512,Rust,ios,456,193,7,3,4,1,0,2020
+GitHub - metrodroid/metrodroid: Read data from public transit cards using your NFC Android phone! (iOS 13 and PC/SC support coming soon),272,Kotlin,ios,4511,757,6,5,10,1,0,2015
+GitHub - hiennguyen92/flutter_callkit_incoming: Flutter Callkit Incoming,5,Kotlin,ios,51,17,2,1,0,1,0,2021
+GitHub - halildurmus/hotdeals-app: A community-driven hot deals sharing app developed with Flutter.,7,Dart,ios,403,51,5,3,2,1,0,2021
+GitHub - justjavac/free-programming-books-zh_CN: 免费的计算机编程类中文书籍，欢迎投稿,84800,N/A,android,911,595,56,4,124,1,12,2013
+GitHub - Genymobile/scrcpy: Display and control your Android device,58400,C,android,1474,219,15,4,41,1,1,2017
+"GitHub - Hack-with-Github/Awesome-Hacking: A collection of various awesome lists for hackers, pentesters and security researchers",47900,N/A,android,113,84,19,3,20,2,7,2016
+"GitHub - horsicq/XAPKDetector: APK/DEX detector for Windows, Linux and MacOS.",328,C++,android,3880,1236,41,1,1,1,0,2020
+GitHub - microsoft/surface-duo-sdk-samples-flutter: flutter samples for Surface Duo,23,Dart,android,32,67,2,3,0,1,0,2020
+GitHub - Azure/azure-sdk-for-android: Android client SDKs for Microsoft Azure,57,Java,android,780,2147,3,6,9,1,0,2018
+GitHub - skaradimitriou/ElmepaUniApp: This app was developed for ELMEPA University in Agios Nikolaos Crete as a useful tool for the students. Live at Google Play Kotlin | Coroutines | Jsoup | Picasso | Room Db,0,Kotlin,android,223,168,4,1,0,1,0,2020
+GitHub - wallabag/android-app: Android application to read your articles saved in your wallabag. You can also easily add new articles.,361,Java,android,2061,217,7,7,24,1,0,2014
+GitHub - RBusarow/ModuleCheck: Fast dependency graph validation for gradle,5,Kotlin,android,355,101,5,4,2,1,0,2020
+"GitHub - DeFiCh/wallet: DeFiChain Wallet. The DeFi Blockchain Light Wallet for iOS, Android & Web. + Desktop Coming Soon",42,TypeScript,android,857,348,8,6,5,2,0,2021
+"GitHub - ryanwong-uk/dazn-code-challenge: DAZN Code Challenge. A take-home code project for the interview process. Using MVVM, Kotlin, Coroutine, Retrofit 2, RoomDB, Hilt, JUnit4, Espresso",0,Kotlin,android,163,31,3,1,1,1,0,2021
+GitHub - arielm/chronotext-cross: Cross platform infrastructure for developing 2d and 3d applications with C++ and OpenGL,18,C++,android,974,402,4,1,0,1,0,2015
+GitHub - kylecorry31/Trail-Sense: An Android app that uses your phone's sensors to assist with wilderness treks or survival situations.,270,Kotlin,android,2861,583,7,6,7,1,0,2019
+GitHub - maxi-booking/d8base-frontend: The PWA and mobile applications for the d8base project,6,TypeScript,android,2036,824,7,5,5,1,0,2019
+GitHub - hiennguyen92/flutter_callkit_incoming: Flutter Callkit Incoming,5,Kotlin,android,51,17,2,1,0,1,0,2021
+GitHub - halildurmus/hotdeals-app: A community-driven hot deals sharing app developed with Flutter.,7,Dart,android,403,51,5,3,2,1,0,2021
+GitHub - AppiumTestDistribution/appium-device-farm: This is an Appium 2.0 plugin designed to manage and create driver sessions on available devices.,50,TypeScript,android,305,148,4,6,6,1,0,2021
+GitHub - cloneconf/Nedium: Read Medium freely on Android!,0,Kotlin,android,84,22,2,1,0,1,0,2021
+GitHub - MaximeAeva/Poco: Tiny app to follow your spendings habits,0,Kotlin,android,8,7,1,1,0,1,0,2021
+GitHub - computefoundation/enterprise-android-application-development: An enterprise Android application development framework,9,Java,android,11,11,1,1,0,1,0,2018
+GitHub - Steffanic/FriendSync: Let's Hang Out! FriendSync is an app that makes it easier to get out with your people more often!,0,Dart,android,30,16,1,1,0,1,0,2021
+GitHub - SIKV/Photos,48,Kotlin,android,271,332,3,2,1,1,0,2018
+"GitHub - kaaholst/android-squeezer: Remote control for your Logitech Media Server (""Squeezeserver"" etc) and players.",21,Java,android,2236,458,5,5,7,1,0,2011
+GitHub - wszlosek/UJ-Android,0,Kotlin,android,50,191,2,1,0,1,0,2021
+"GitHub - Oztechan/CCC: Currency Converter Calculator for Android, iOS and Backend with power of Kotlin Multiplatform",146,Kotlin,android,2010,564,12,2,1,1,0,2017
+GitHub - joaovitorcf97/GastoDeViagem,0,Kotlin,android,1,1,1,1,0,1,0,2021
+GitHub - Genymobile/scrcpy: Display and control your Android device,58400,C,android,1474,219,15,4,41,1,1,2017
+"GitHub - Hack-with-Github/Awesome-Hacking: A collection of various awesome lists for hackers, pentesters and security researchers",47900,N/A,android,113,84,19,3,20,2,7,2016
+GitHub - manikantaraavi/manikantaraavi: 👀,0,N/A,android,4307,4263,391,2,0,1,0,2021
